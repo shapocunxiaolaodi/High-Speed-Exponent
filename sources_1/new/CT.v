@@ -20,6 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 //Compression Tree
 //module CT2
+//how long it take tome......
 module CT(d0, d1, d2, d3, o0, o1);
 
     input [31:0] d0, d1, d2, d3;
